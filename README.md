@@ -2,7 +2,7 @@
 
 ## Pâtisserie
 
-### Macaron              
+### Macarons           
 
 ![description image](macaron.png)            
 
@@ -10,6 +10,6 @@
 
 ![description image](coeur.png)
 
-## dessin
+## Dessins
 
 ![description image](frog.png)
