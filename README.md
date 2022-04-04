@@ -6,7 +6,7 @@
 
 ![description image](macaron.png)            
 
-### Entremet Fraise & Framboise
+### Entremet Fraise - Framboise
 
 ![description image](coeur.png)
 
