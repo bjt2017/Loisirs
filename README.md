@@ -10,7 +10,7 @@
 
 ![description image](coeur.png)
 
-## Prise de vue par drone
+## Prises de vue par drone
 
 ![description image](DJI_0455.JPG)
 ![description image](DJI_0626.JPG)
