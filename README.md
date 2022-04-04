@@ -12,7 +12,7 @@
 
 ## Prise de vue de drone
 
-![description image](DJI_0256.JPG.jpg)
+![description image](DJI_0256.JPG)
 ![description image](DJI_0302.jpg)
 ![description image](DJI_0455.jpg)
 ![description image](DJI_0614.jpg)
