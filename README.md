@@ -20,5 +20,6 @@
 ## Dessins
 
 ![description image](frog.png)
+![description image](lion.jpg)
 
 
