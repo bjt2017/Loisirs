@@ -8,7 +8,7 @@
 
 ### Entremet Fraise - Framboise
 
-![description image](coeur.png)
+![description image](coeur.jpg)
 
 ## Prises de vue par drone
 
